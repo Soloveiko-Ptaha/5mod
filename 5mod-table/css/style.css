@@ -11,98 +11,56 @@ td {
 	border: 6px solid #000;
 }
 .td1 {
-	width: 119px;
-	height: 47px;
 	border-top: none;
 	border-left: none;
 }
 .td2 {
-	width: 200px;
-	height: 47px;
 	border-top: none;
 }
 .td3 {
-	height: 47px;
-	width: 150px;
 	background: #fff467;
 	border-top: none;
 	border-right: none;
 }
 
 .td4 {
-	width: 48px;
-	height: 130px;
 	border-left: none;
 }
 .td5 {
-	width: 270px;
-	height: 267px;
 	background: #ff5743;
 }
 .td6 {
-	width: 150px;
-	height: 130px;
 	background: #fff467;
 	border-right: none;
 }
 .td7 {
-	width: 48px;
-	height: 200px;
 	border-left: none;
 }
-.td8 {
-	width: 75px;
-	height: 130px;
-}
 .td9 {
-	width: 75px;
-	height: 130px;
 	border-right: none;
 }
 .td10 {
-	width: 138px;
-	height: 135px;
 	background: #000;
 }
-.td11 {
-	width: 129px;
-	height: 60px;
-}
 .td12 {
-	width: 150px;
-	height: 60px;
 	border-right: none;
 }
 .td13 {
-	width: 48px;
-	height: 135px;
 	background: #fff467;
 	border-bottom: none;
 	border-left: none;
 }
-.td14 {
-	width: 129px;
-	height: 55px;
-}
 .td15 {
-	width: 150px;
-	height: 90px;
 	background: #104b88;
 	border-right: none;
 }
 .td16 {
-	width: 138px;
-	height: 70px;
 	border-bottom: none;
 }
 .td17 {
-	width: 129px;
-	height: 33px;
 	background: #000;
 }
 .td18 {
-	width: 3000px;
-	height: 33px;
 	border-right: none;
 	border-bottom: none;
 }
